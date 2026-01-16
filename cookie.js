@@ -292,7 +292,7 @@ geoConfig: {
        accept: {
     background: '#44c8cf !important',
     color: '#ffffff !important',
-    border: '1px solid #1177d0 !important',
+    border: '1px solid #44c8cf !important',
     hover: {
         background: '#44c8cf !important',
         color: '#ffffff !important',
