@@ -82,7 +82,7 @@ function isEEAVisitor() {
 
 const config = {
     // Domain restriction
-    allowedDomains: ['promo.stomatologicomelzo.com'],
+    allowedDomains: [],
     
     // Privacy policy URL (configurable)
     privacyPolicyUrl: 'https://promo.stomatologicomelzo.com/#privacy-policy', // Add your full privacy policy URL here
